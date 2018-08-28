@@ -1,0 +1,23 @@
+{
+    "name": "phpixie/l18n",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Mikhail Shevtsov",
+            "email": "mikhail.shevtsov@gmail.com",
+            "homepage": "http://about.me/m_shevtsov"
+        }
+    ],
+    "require": {
+        "phpixie/core": "2.*@dev"
+    },
+    "autoload": {
+        "psr-0": {"PHPixie": "classes/"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    }
+}
