@@ -1,7 +1,7 @@
 {
     "name": "phpixie/l18n",
     "type": "library",
-    "license": "BSD",
+    "license": "LGPL-3.0",
     "authors": [
         {
             "name": "Mikhail Shevtsov",
